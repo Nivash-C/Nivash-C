@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nivash&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20and%20AI%2FML%20Enthusiast&descAlignY=53&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=270&section=header&text=Nivash&fontSize=115&animation=fadeIn&fontAlignY=30&desc=Data%20and%20AI%2FML%20Enthusiast&descAlignY=50&descAlign=60" />
 
 </div>
 
@@ -9,7 +9,7 @@
 </div>
 
 ### About Me :
-Passionate about Data & AI/ML | Turning raw data into insights and intelligent systems
+Passionate about Data & AI/ML | Turning raw data into insights and intelligent systems. I enjoy working with data pipelines, building dashboards, and exploring machine learning models to solve real-world problems. Always curious, always learning.
 
 ### Languages :
 
@@ -42,6 +42,8 @@ Passionate about Data & AI/ML | Turning raw data into insights and intelligent s
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+### 🚀 What I'm up to :
 
 - 👀 I'm into Data Analysis & Machine Learning
 - 💞️ I'm looking to collaborate on data/ML projects
