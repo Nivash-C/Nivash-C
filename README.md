@@ -1,24 +1,25 @@
-<div id="header" align="center">
+<div align="center">
 
-<img src="./assets/github.png" width="100"/>
-
-<h1>Hey there, I'm Nivash!</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nivash&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%2FML%20Enthusiast&descAlignY=53&descAlign=62" />
 
 </div>
 
-### About Me :
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+%26+AI%2FML+Enthusiast;Turning+raw+data+into+insights;Always+learning+something+new" alt="Typing SVG" />
+</div>
 
+### About Me :
 Passionate about Data & AI/ML | Turning raw data into insights and intelligent systems
 
 ### Languages :
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div align="center">
+<table>
   <tr>
-    🇮🇳 Tamil - Native
+    <td>🇮🇳 Tamil - Native</td>
   </tr>
   <tr>
-    🇬🇧 English - Intermediate
+    <td>🇬🇧 English - Intermediate</td>
   </tr>
 </table>
 </div>
@@ -41,3 +42,32 @@ Passionate about Data & AI/ML | Turning raw data into insights and intelligent s
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+- 👀 I'm into Data Analysis & Machine Learning
+- 💞️ I'm looking to collaborate on data/ML projects
+- 📫 How to reach me 👇
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nivash-chinnathambi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nivashchinnathambi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Nivash-C"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+## Hobbies
+- 🧠 Learning new things
+- 📊 Working on personal data projects
+
+# 📊 GitHub Stats and Top Langs
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivash-C&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivash-C&theme=react&langs_count=8&layout=compact" />
+</p>
+
+# ⚡ Today's Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer" />
