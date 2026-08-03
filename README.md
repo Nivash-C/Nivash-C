@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nivash&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%2FML%20Enthusiast&descAlignY=53&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?`type=wave&color=gradient&height=300&section=header&text=Nivash&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%2FML%20Enthusiast&descAlignY=53&descAlign=62" />
 
 </div>
 
@@ -70,4 +70,4 @@ Passionate about Data & AI/ML | Turning raw data into insights and intelligent s
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer" />
